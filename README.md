@@ -152,10 +152,10 @@ plt.show()
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/c9fbbf4d-488d-4d3d-a1e0-de61ec537484" />
 
 # Natural sampling
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/fc318540-6562-494d-8a2e-ccd67af0c1de" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/fc318540-6562-494d-8a2e-ccd67af0c1de" />
 
 # Flat-topped Sampling
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/4ff6f8f2-d924-4331-987d-23f2b5e5fd9d" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/4ff6f8f2-d924-4331-987d-23f2b5e5fd9d" />
 
 # Results
 
